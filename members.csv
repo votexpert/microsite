@@ -1,5 +1,5 @@
 id,verified,scema_url,first_name,last_name,middle_name,ve.rating.2017,tooltip
-0123456789abcdef,FAULSE,https://github.com/hhru/api/blob/master/docs/resumes.md,Полина,Гришина,Юрьевна,"8,1",
+0123456789abcdef,TRUE,https://github.com/hhru/api/blob/master/docs/resumes.md,Полина,Гришина,Юрьевна,"8,1",
 Support,available,,available,available,TRUE,,
 ,,,,,,Site Features,
 Пробный,available,,available,available,TRUE,,Полезная вещь
